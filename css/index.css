@@ -1,0 +1,13 @@
+:root {
+    --pr-color: hsl(196, 89%, 86%);
+    --second-color: hsl(196, 56%, 8%);
+    --fz-title: .9rem;
+
+    --grid-item-translate: 0px;
+    --gird-colums: 3;
+    --grid-width: 100%;
+    --grid-max-width: 1200px;
+    --grid-item-ratio: 20px;
+    --grid-item-radius: 20px;
+    --grid-gap: 1wv;
+}
